@@ -1,7 +1,7 @@
 # Official Pytorch Implementation of DToP
 
 ### Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation 
-Quan Tang, Bowen Zhang, Jiajun Liu, Fagiu Liu, Yifan Liu
+Quan Tang, Bowen Zhang, Jiajun Liu, Fagui Liu, Yifan Liu
 
 ICCV 2023. [[arxiv]](https://arxiv.org/abs/2308.01045)
 
